@@ -1,0 +1,4 @@
+CREATE DATABASE ecommerce;
+
+CREATE SCHEMA sales;
+
