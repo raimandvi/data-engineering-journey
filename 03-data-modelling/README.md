@@ -59,9 +59,8 @@ Dimension Tables:
 
 ## 3️⃣ Snowflake Schema
 
-**File:** `03_snowflake_schema.sql`
 
-Demonstrates the **Snowflake Schema**, where **dimension tables are normalized into multiple related tables**.
+ **Snowflake Schema**, where **dimension tables are normalized into multiple related tables**.
 
 ### Example
 
@@ -77,7 +76,6 @@ Demonstrates the **Snowflake Schema**, where **dimension tables are normalized i
 
 ## 4️⃣ Fact Tables vs Dimension Tables
 
-**File:** `04_fact_dimension_tables.sql`
 
 Shows the difference between **Fact Tables** and **Dimension Tables**, which is a core concept in data warehousing.
 
